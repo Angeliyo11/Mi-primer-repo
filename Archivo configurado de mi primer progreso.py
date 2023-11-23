@@ -1,0 +1,10 @@
+print("HOLA BIENVENIDOS A MI PRIMER JUEGO")
+print("Creado por 'zlAngel'")
+print(" ")
+print("¡Espero que te diviertas!")
+print(" ")
+print("RECUERDA RESPETAR TU TURNO")
+print(" ")
+while True:
+    a= int(input("Jugador 1: 1=Piedra, 2=Papel, 3=Tijera"))
+    b= int(input("Jugador 2: 1=Piedra, 2=Papel, 3=Tijera"))
